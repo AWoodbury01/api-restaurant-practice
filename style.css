@@ -1,0 +1,14 @@
+#printing-area {
+    display: flex;
+    flex-direction: column;
+}
+
+#restaurant-card {
+    display: flex;
+    align-content: center;
+}
+
+#form-container {
+    width: 50%;
+}
+
